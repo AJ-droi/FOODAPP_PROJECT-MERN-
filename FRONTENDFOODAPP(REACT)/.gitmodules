@@ -1,0 +1,3 @@
+[submodule "Foodapp"]
+	path = Foodapp
+	url = https://github.com/AJ-droi/MERN-FOODAPP-FRONTEND.git
